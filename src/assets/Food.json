@@ -1,0 +1,497 @@
+[
+    {
+        "id": 1,
+        "name": "Arabian Buttered Eggs with Mint and Lemon",
+        "amt": "299",
+        "ftype": "Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/2.-Arabian-Buttered-Eggs-with-Mint-and-Lemon.jpg",
+        "desp": "Traditional Arabian recipes served with homemade staples like labneh, nabulsi cheese, jams, zaatar, dukka, and olive oil.",
+        "category": "Arabian"
+    },
+    {
+        "id": 2,
+        "name": "Masoub, a Saudi Arabian Banana Breakfast",
+        "amt": "399",
+        "ftype": "Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/3.-Masoub-a-Saudi-Arabian-Banana-Breakfast-.jpg",
+        "desp": "Popular Masoub Saudi breakfast recipe, a banana dish, favorite Arabic breakfast.",
+        "category": "Arabian"
+    },
+    {
+        "id": 3,
+        "name": "Shakshuka; A delicious Middle Eastern Egg Dish",
+        "amt": "349",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/4.-Shakshuka-A-delicious-Middle-Eastern-Egg-Dish.jpg",
+        "desp": "Eggs poached in tomato sauce with onions and bell peppers, a traditional Arabian breakfast.",
+        "category": "Arabian"
+    },
+    {
+        "id": 4,
+        "name": "Arabian Foul",
+        "amt": "359",
+        "ftype": "Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/5.-Arabian-Foul-or-Fava-Bean-Breakfast.jpg",
+        "desp": "Hummus, boiled eggs with zaatar, spicy Foul, and labneh yogurt cheese.",
+        "category": "Arabian"
+    },
+    {
+        "id": 5,
+        "name": "Saudi Jareesh Recipe",
+        "amt": "379",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/7.-Saudi-Jareesh-Recipe.jpg",
+        "desp": "Jareesh, a popular dish with crushed wheat, yogurt, and meat from Saudi Arabia.",
+        "category": "Arabian"
+    },
+    {
+        "id": 6,
+        "name": "Burnt Leek & Caper Berry",
+        "amt": "499",
+        "ftype": "Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/9.-Burnt-Leek-Caper-Berry-Dip.jpg",
+        "desp": "Rich, roasted leeks with caper berry flavor and fresh dipping veggies.",
+        "category": "Arabian"
+    },
+    {
+        "id": 7,
+        "name": "Arabian Falafel Recipe",
+        "amt": "529",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/10.-Arabian-Falafel-Recipe.jpg",
+        "desp": "Deep-fried balls or patties, a popular snack in the Middle East.",
+        "category": "Arabian"
+    },
+    {
+        "id": 8,
+        "name": "Al Kabsa",
+        "amt": "409",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/11.-Al-Kabsa.jpg",
+        "desp": "Traditional Arabian rice dish made with chicken, sometimes lamb.",
+        "category": "Arabian"
+    },
+    {
+        "id": 9,
+        "name": "Arabian Chicken Mandi Recipe - Yemeni Style Rice & Chicken",
+        "amt": "399",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/12.-Arabian-Chicken-Mandi-Recipe.jpg",
+        "desp": "Chicken Mandi with mandi powder over basmati rice, a traditional Arabian recipe.",
+        "category": "Arabian"
+    },
+    {
+        "id": 10,
+        "name": "Chicken Machboos",
+        "amt": "449",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/13.-Chicken-Machboos.jpg",
+        "desp": "Popular rice dish from the Arabian Gulf made with lamb or chicken.",
+        "category": "Arabian"
+    },
+    {
+        "id": 11,
+        "name": "Chicken Shawarma",
+        "amt": "489",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/14.-Chicken-Shawarma.jpg",
+        "desp": "Traditional Arabian recipe for delicious chicken shawarma.",
+        "category": "Arabian"
+    },
+    {
+        "id": 12,
+        "name": "Saffron Fish and Rice with Tahini and Toasted Nuts",
+        "amt": "549",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/15.-Saffron-Fish-and-Rice-with-Tahini-and-Toasted-Nuts.jpg",
+        "desp": "Fish and rice cooked separately, arranged in a platter for consistency.",
+        "category": "Arabian"
+    },
+    {
+        "id": 13,
+        "name": "Arabian Lamb Stew",
+        "amt": "329",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/17.-Arabian-Lamb-Stew.jpg",
+        "desp": "Loaded with tender lamb and earthy, warm Arabian spices.",
+        "category": "Arabian"
+    },
+    {
+        "id": 14,
+        "name": "Arabian Chicken Stew",
+        "amt": "479",
+        "ftype": "Non-Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/18.-Arabian-Chicken-Stew.jpg",
+        "desp": "Tender chicken, potatoes, carrots with earthy spices like cumin and coriander.",
+        "category": "Arabian"
+    },
+    {
+        "id": 15,
+        "name": "Arabic Lentil Soup",
+        "amt": "329",
+        "ftype": "Veg",
+        "img": "https://ourbigescape.com/wp-content/uploads/2022/09/20.-Arabic-Lentil-Soup.jpg",
+        "desp": "Made with vegetables and lentils, simmered with cinnamon and cumin.",
+        "category": "Arabian"
+    },
+    {
+        "id": 16,
+        "name": "Paneer Butter Masala",
+        "amt": "329",
+        "ftype": "Veg",
+        "img": "https://www.theendlessmeal.com/wp-content/uploads/2021/06/Paneer-Butter-Masala-3-scaled.jpg",
+        "desp": "Paneer cubes in rich tomato gravy with butter and cream.",
+        "category": "Indian"
+    },
+    {
+        "id": 17,
+        "name": "Chole Bhature",
+        "amt": "199",
+        "ftype": "Veg",
+        "img": "https://2.bp.blogspot.com/-w4KOeWh0DXk/UA7pfsmVXhI/AAAAAAAARSk/qAOZ30Zy1AM/s640/cb+five+s.jpg",
+        "desp": "Spicy chickpeas served with deep-fried bread called bhature.",
+        "category": "Indian"
+    },
+    {
+        "id": 18,
+        "name": "Vegetable Biryani",
+        "amt": "299",
+        "ftype": "Veg",
+        "img": "https://th.bing.com/th/id/OIP.cfntQFWlJDxXgMTmomYfTgHaE8?rs=1&pid=ImgDetMain",
+        "desp": "Mixed vegetables and rice cooked with aromatic spices and herbs.",
+        "category": "Indian"
+    },
+    {
+        "id": 19,
+        "name": "Masala Dosa",
+        "amt": "149",
+        "ftype": "Veg",
+        "img": "https://foodiewish.com/wp-content/uploads/2020/05/Masala-Dosa-Recipe.jpg",
+        "desp": "Crispy rice crepe filled with spicy mashed potatoes.",
+        "category": "Indian"
+    },
+    {
+        "id": 20,
+        "name": "Butter Chicken",
+        "amt": "249",
+        "ftype": "Non-Veg",
+        "img": "https://www.licious.in/blog/wp-content/uploads/2022/06/butter-chicken-.jpg",
+        "desp": "Chicken cooked in rich, creamy tomato-based gravy.",
+        "category": "Indian"
+    },
+    {
+        "id": 21,
+        "name": "Pani Puri",
+        "amt": "99",
+        "ftype": "Veg",
+        "img": "https://static.toiimg.com/thumb/53672832.cms?width=1200&height=900",
+        "desp": "Crispy puris filled with spicy tangy water and potato filling.",
+        "category": "Indian"
+    },
+    {
+        "id": 22,
+        "name": "Chicken Tikka Masala",
+        "amt": "299",
+        "ftype": "Non-Veg",
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/chicken-tikka-masala-recipe.jpg",
+        "desp": "Marinated chicken cooked in a rich, creamy tomato sauce.",
+        "category": "Indian"
+    },
+    {
+        "id": 23,
+        "name": "Rogan Josh",
+        "amt": "349",
+        "ftype": "Non-Veg",
+        "img": "https://sanjeevkapoor.com/UploadFiles/RecipeImages/Lamb-Rogan-Josh-.jpg",
+        "desp": "Lamb curry cooked in a rich, aromatic gravy.",
+        "category": "Indian"
+    },
+    {
+        "id": 24,
+        "name": "Aloo Paratha",
+        "amt": "99",
+        "ftype": "Veg",
+        "img": "https://www.cookwithmanali.com/wp-content/uploads/2021/07/Aloo-Paratha.jpg",
+        "desp": "Flatbread stuffed with spicy mashed potatoes.",
+        "category": "Indian"
+    },
+    {
+        "id": 25,
+        "name": "Samosa",
+        "amt": "49",
+        "ftype": "Veg",
+        "img": "https://www.thespruceeats.com/thmb/BJZcZBgPVuob1RtMxOhxtX3j0lc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-samosa-recipe-1957699-hero-01-909c015e9dc1494598e8b25ef9b2b28a.jpg",
+        "desp": "Deep-fried pastry filled with spicy potatoes and peas.",
+        "category": "Indian"
+    },
+    {
+        "id": 26,
+        "name": "Fish Curry",
+        "amt": "329",
+        "ftype": "Non-Veg",
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl-sunitha/kerala_style_nadan_fish_curry.jpg",
+        "desp": "Fish cooked in a tangy and spicy curry sauce.",
+        "category": "Indian"
+    },
+    {
+        "id": 27,
+        "name": "Malai Kofta",
+        "amt": "349",
+        "ftype": "Veg",
+        "img": "https://static.toiimg.com/thumb/54308405.cms?width=1200&height=900",
+        "desp": "Fried balls of potato and paneer in a creamy gravy.",
+        "category": "Indian"
+    },
+    {
+        "id": 28,
+        "name": "Lamb Vindaloo",
+        "amt": "379",
+        "ftype": "Non-Veg",
+        "img": "https://www.seriouseats.com/thmb/vxk1z6tGp6K0K0Eqtfo8VnhLfXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20200103-Lamb-Vindaloo-Jessica-Gavin-hero-01-e495ee39ddc046b89b96da3d6bc101b2.jpg",
+        "desp": "Spicy and tangy lamb curry from Goa.",
+        "category": "Indian"
+    },
+    {
+        "id": 29,
+        "name": "Chicken Biryani",
+        "amt": "279",
+        "ftype": "Non-Veg",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2019/03/Chicken-Biryani-3-3.jpg",
+        "desp": "Fragrant rice cooked with chicken and spices.",
+        "category": "Indian"
+    },
+    {
+        "id": 30,
+        "name": "Tandoori Chicken",
+        "amt": "299",
+        "ftype": "Non-Veg",
+        "img": "https://www.simplyrecipes.com/thmb/fqlPa-gmPIs1--5jiW2M2cZ4kGk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Tandoori-Chicken-LEAD-7-1b95384b70e64d8eb3ad3662b31ebc89.jpg",
+        "desp": "Marinated chicken grilled in a tandoor oven.",
+        "category": "Indian"
+    },
+    {
+        "id": 31,
+        "name": "Bangers and Mash",
+        "amt": "329",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bangers_and_Mash-01.jpg",
+        "desp": "British dish with sausages and mashed potatoes.",
+        "category": "British"
+    },
+    {
+        "id": 32,
+        "name": "Fish and Chips",
+        "amt": "299",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Fish_and_chips_blackpool.jpg",
+        "desp": "Fried fish fillet served with chips.",
+        "category": "British"
+    },
+    {
+        "id": 33,
+        "name": "Shepherd's Pie",
+        "amt": "349",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Shepherd%27s_pie_with_cheese.jpg",
+        "desp": "Cottage pie made with minced meat and mashed potatoes.",
+        "category": "British"
+    },
+    {
+        "id": 34,
+        "name": "Beef Wellington",
+        "amt": "799",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Beef_Wellington_2014.JPG",
+        "desp": "Fillet steak coated with pâté and duxelles, wrapped in puff pastry.",
+        "category": "British"
+    },
+    {
+        "id": 35,
+        "name": "Chicken Tikka Masala",
+        "amt": "329",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Chicken_tikka_masala.jpg",
+        "desp": "Chicken in spiced curry sauce, popular in the UK.",
+        "category": "British"
+    },
+    {
+        "id": 36,
+        "name": "Sunday Roast",
+        "amt": "399",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sunday_roast_-_roast_beef_1.jpg",
+        "desp": "Traditional British roast dinner with meat, potatoes, and vegetables.",
+        "category": "British"
+    },
+    {
+        "id": 37,
+        "name": "Cornish Pasty",
+        "amt": "279",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Cornish_pasty.jpg",
+        "desp": "Pastry filled with beef and vegetables.",
+        "category": "British"
+    },
+    {
+        "id": 38,
+        "name": "Steak and Kidney Pie",
+        "amt": "329",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Steak_and_kidney_pie.jpg",
+        "desp": "Pie filled with diced beef, kidney, and gravy.",
+        "category": "British"
+    },
+    {
+        "id": 39,
+        "name": "Eton Mess",
+        "amt": "199",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Eton_mess_The_Pig.jpg",
+        "desp": "Dessert made with strawberries, meringue, and cream.",
+        "category": "British"
+    },
+    {
+        "id": 40,
+        "name": "Victoria Sponge Cake",
+        "amt": "249",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Victoria_sponge_cake_%28cut%29.jpg",
+        "desp": "Cake with layers of jam and cream.",
+        "category": "British"
+    },
+    {
+        "id": 41,
+        "name": "Haggis",
+        "amt": "279",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Haggis_neeps_tatties.jpg",
+        "desp": "Savory pudding containing sheep's pluck, onion, oatmeal, and spices.",
+        "category": "British"
+    },
+    {
+        "id": 42,
+        "name": "Scotch Egg",
+        "amt": "149",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Scotch_egg_-_studio.jpg",
+        "desp": "Boiled egg wrapped in sausage meat, breaded, and fried.",
+        "category": "British"
+    },
+    {
+        "id": 43,
+        "name": "Sticky Toffee Pudding",
+        "amt": "229",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sticky_toffee_pudding.jpg",
+        "desp": "Moist sponge cake with finely chopped dates and toffee sauce.",
+        "category": "British"
+    },
+    {
+        "id": 44,
+        "name": "Welsh Rarebit",
+        "amt": "159",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Welsh_Rarebit.jpg",
+        "desp": "Toasted bread with a melted cheese sauce.",
+        "category": "British"
+    },
+    {
+        "id": 45,
+        "name": "Chole Bhature",
+        "amt": "149",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cholebhature.jpg",
+        "desp": "Spicy chickpeas served with fried bread.",
+        "category": "Indian"
+    },
+    {
+        "id": 46,
+        "name": "Bhel Puri",
+        "amt": "79",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bhelpuri_Stall.jpg",
+        "desp": "Puffed rice mixed with vegetables, tangy tamarind sauce.",
+        "category": "Indian"
+    },
+    {
+        "id": 47,
+        "name": "Chicken Caesar Salad",
+        "amt": "229",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Chicken_Caesar_Salad_%281%29.jpg",
+        "desp": "Grilled chicken on a bed of romaine lettuce with Caesar dressing.",
+        "category": "Salad"
+    },
+    {
+        "id": 48,
+        "name": "Greek Salad",
+        "amt": "199",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Greek_salad_%282%29.jpg",
+        "desp": "Salad with tomatoes, cucumbers, olives, feta cheese, and oregano.",
+        "category": "Salad"
+    },
+    {
+        "id": 49,
+        "name": "Caprese Salad",
+        "amt": "179",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Caprese_salad_plate.jpg",
+        "desp": "Tomato, mozzarella, and basil salad, seasoned with salt and olive oil.",
+        "category": "Salad"
+    },
+    {
+        "id": 50,
+        "name": "Pasta Salad",
+        "amt": "199",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pasta_salad_closeup.JPG",
+        "desp": "Salad made with cooked pasta, vegetables, and dressing.",
+        "category": "Salad"
+    },
+    {
+        "id": 51,
+        "name": "Tuna Salad",
+        "amt": "249",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tuna_Salad.jpg",
+        "desp": "Salad made with canned tuna, mayonnaise, and various vegetables.",
+        "category": "Salad"
+    },
+    {
+        "id": 52,
+        "name": "Cobb Salad",
+        "amt": "279",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Cobb_Salad_with_shrimp%2C_Marion%27s_Inn%2C_Oakland%2C_California.JPG",
+        "desp": "Salad with chicken, bacon, avocado, blue cheese, and vinaigrette.",
+        "category": "Salad"
+    },
+    {
+        "id": 53,
+        "name": "Niçoise Salad",
+        "amt": "269",
+        "ftype": "Non-Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Salade_nicoise_1.jpg",
+        "desp": "Salad with tuna, olives, anchovies, tomatoes, and green beans.",
+        "category": "Salad"
+    },
+    {
+        "id": 54,
+        "name": "Waldorf Salad",
+        "amt": "199",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Waldorf_salad%2C_Lake_Lawn_Resort.jpg",
+        "desp": "Salad with apples, celery, grapes, and walnuts in mayonnaise dressing.",
+        "category": "Salad"
+    },
+    {
+        "id": 55,
+        "name": "Kachumber Salad",
+        "amt": "129",
+        "ftype": "Veg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kachumber_salat.jpg",
+        "desp": "Indian salad made with tomatoes, cucumbers, onions, and spices.",
+        "category": "Salad"
+    }
+]

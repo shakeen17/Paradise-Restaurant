@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Four Cheese Pasta",
+        "amt": "129",
+        "ftype": "Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/pasta_612x350_51462301184.jpg",
+        "desp": "Parmesan, Cheddar, Brie, and Emmental in a cheesy pasta."
+    },
+    {
+        "id": 2,
+        "name": "Pasta Carbonara",
+        "amt": "139",
+        "ftype": "Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/cksaha_625x350_71462302494.png",
+        "desp": "Pasta popular with coal miners, traditionally made with guanciale."
+    },
+    {
+        "id": 3,
+        "name": "Gnocchi with Tomato Sauce",
+        "amt": "149",
+        "ftype": "Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/gnocchi_625x350_51462300908.png",
+        "desp": "Gnocchi dumplings with wheat flour, potato, semolina, egg, breadcrumbs."
+    },
+    {
+        "id": 4,
+        "name": "Pasta Con Pomodoro E Basilico",
+        "amt": "159",
+        "ftype": "Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/pasta_625x350_51462301286.jpg",
+        "desp": "Pasta with tomato and basil sauce, simple and classic."
+    },
+    {
+        "id": 5,
+        "name": "Home-Style Baked Pasta",
+        "amt": "169",
+        "ftype": "Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/pasta_625x350_71462301323.jpg",
+        "desp": "Pasta, cheese, veggies, and tomato sauce baked till golden."
+    },
+    {
+        "id": 6,
+        "name": "Ravioli with Coconut Milk & Lemongrass",
+        "amt": "179",
+        "ftype": "Non-Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/ravioli_625x350_61462302281.png",
+        "desp": "Ravioli stuffed with veggie mix, drizzled with coconut milk sauce."
+    },
+    {
+        "id": 7,
+        "name": "Spaghetti Carbonara",
+        "amt": "189",
+        "ftype": "Non-Veg",
+        "img": "https://s23209.pcdn.co/wp-content/uploads/2014/03/IMG_2694edit-1.jpg",
+        "desp": "Bacon, eggs, and parmesan cheese in a protein-packed dish."
+    },
+    {
+        "id": 8,
+        "name": "Shrimp Scampi Pasta",
+        "amt": "199",
+        "ftype": "Non-Veg",
+        "img": "https://www.foodiecrush.com/wp-content/uploads/2013/07/Shrimp-Scampi-Pasta-FoodieCrush.com009.jpg",
+        "desp": "Shrimps in a low-fat, low-calorie, protein-rich pasta dish."
+    },
+    {
+        "id": 9,
+        "name": "Skillet Italian Sausage and Peppers with Penne",
+        "amt": "209",
+        "ftype": "Non-Veg",
+        "img": "https://ohsweetbasil.com/wp-content/uploads/2014/01/Skillet-Peppers-and-Italian-Sausage-with-Penne.jpg",
+        "desp": "Italian sausage with high protein, served with peppers and penne."
+    },
+    {
+        "id": 10,
+        "name": "Chicken Bruschetta Pasta",
+        "amt": "219",
+        "ftype": "Non-Veg",
+        "img": "https://diethood.com/wp-content/uploads/2013/09/Chicken-Bruschetta-Pasta-Diethood.jpg",
+        "desp": "Chicken with pasta, a family favorite with chewy, soft textures."
+    }
+]

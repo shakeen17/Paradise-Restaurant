@@ -1,0 +1,39 @@
+/* src/App.css */
+
+.bg-dark {
+    background-color: #343a40 !important;
+  }
+  
+  .text-danger {
+    color: #dc3545 !important;
+  }
+  
+  .text-uppercase {
+    text-transform: uppercase;
+  }
+  
+  .my-5 {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+  }
+  
+  .p-5 {
+    padding: 3rem !important;
+  }
+  
+  .mt-5 {
+    margin-top: 3rem !important;
+  }
+  
+  .mb-5 {
+    margin-bottom: 3rem !important;
+  }
+  
+  .text-center {
+    text-align: center !important;
+  }
+  
+  .text-light {
+    color: #f8f9fa !important;
+  }
+  

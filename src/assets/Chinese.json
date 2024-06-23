@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Peking Roasted Duck",
+        "amt": "350",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2021/12/d247e7d25b164b77841f6022_cut_750x400_39.webp",
+        "desp": "Thin and crispy duck skin, often eaten with pancakes and sauces."
+    },
+    {
+        "id": 2,
+        "name": "Kung Pao Chicken",
+        "amt": "250",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2019/11/31acb7b302ec4b48b17443ed_cut_750x400_39.webp",
+        "desp": "Spicy Sichuan dish with diced chicken, chili, cucumber, and peanuts."
+    },
+    {
+        "id": 3,
+        "name": "Sweet and Sour Pork",
+        "amt": "220",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2019/11/a4ad4a7fe0cb401cb0be6383_cut_750x400_39.webp",
+        "desp": "Bright orange-red pork with a delicious sweet and sour taste."
+    },
+    {
+        "id": 4,
+        "name": "Hot Pot",
+        "amt": "300",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2019/01/482fb1f829ce4e6496b94fea_cut_750x400_39.webp",
+        "desp": "Simmering pot of broth with various meats and vegetables cooked at the table."
+    },
+    {
+        "id": 5,
+        "name": "Dim Sum",
+        "amt": "200",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2018/08/16d96371fd2944be86ffbdc1_cut_750x400_39.webp",
+        "desp": "Cantonese dish with a variety of small items like dumplings and rolls."
+    },
+    {
+        "id": 6,
+        "name": "Dumplings",
+        "amt": "150",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2019/01/9b7159f6d89449d997eaa5ab_cut_750x400_39.webp",
+        "desp": "Minced meat and vegetables wrapped in dough, boiled, steamed, or fried."
+    },
+    {
+        "id": 7,
+        "name": "Ma Po Tofu",
+        "amt": "180",
+        "ftype": "Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2019/11/62745d5a726045e4a99a3885_cut_750x400_39.webp",
+        "desp": "Spicy tofu with minced meat, fermented black beans, and chili paste."
+    },
+    {
+        "id": 8,
+        "name": "Char Siu",
+        "amt": "240",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2021/12/a57fdce570494d41b624119d_cut_750x400_39.webp",
+        "desp": "Cantonese roast pork, often eaten with rice or as a filling in buns."
+    },
+    {
+        "id": 9,
+        "name": "Chow Mein",
+        "amt": "200",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2018/03/10725167158a4b8589bf3140_cut_750x400_39.webp",
+        "desp": "Stir-fried noodles with meat, onions, and celery, invented to preserve food."
+    },
+    {
+        "id": 10,
+        "name": "Twice-Cooked Pork Slices",
+        "amt": "180",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2021/12/8189b6d0265149138f394b89_cut_750x400_39.webp",
+        "desp": "Fried rice with eggs, vegetables, and meat, popular and easy to make."
+    }
+]

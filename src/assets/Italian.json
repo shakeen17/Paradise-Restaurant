@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Burrata",
+        "amt": "350",
+        "ftype": "Veg",
+        "img": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/05/burrata.jpg",
+        "desp": "Artisan cheese from Puglia, made with cow's milk, rennet, and cream, known for its creamy interior and rich flavor."
+    },
+    {
+        "id": 2,
+        "name": "Prosciutto di Parma",
+        "amt": "400",
+        "ftype": "Non-Veg",
+        "img": "https://img.ev.mu/images/attractions/5550/960x640/282778.jpg",
+        "desp": "Cured ham from Parma, made with high-quality pigs and sea salt, known for its delicate flavor and texture."
+    },
+    {
+        "id": 3,
+        "name": "Panino col Polpo",
+        "amt": "200",
+        "ftype": "Non-Veg",
+        "img": "https://cdn.tasteatlas.com/images/dishes/b45530b813014cf0a8d6b69fea151073.jpg",
+        "desp": "Traditional sandwich from Bari with grilled octopus, bread, olive oil, parsley, salt, and pepper."
+    },
+    {
+        "id": 4,
+        "name": "Pasta Carbonara",
+        "amt": "250",
+        "ftype": "Non-Veg",
+        "img": "https://th.bing.com/th/id/R.415f6084504f1642b7f92b98ce13430f?rik=CgPH9IoM17NyIg&riu=http%3a%2f%2ffoodwhirl.com%2fwp-content%2fuploads%2f2017%2f02%2fspaghetti-carbonara-insta.jpg&ehk=k6BrmXRCK%2bjCz6K8qHVVhXFVe%2fO7GbyUM0uaGzNJq20%3d&risl=&pid=ImgRaw&r=0",
+        "desp": "Classic Roman pasta dish with spaghetti, guanciale, egg yolks, and Pecorino Romano cheese."
+    },
+    {
+        "id": 5,
+        "name": "Tagliatelle al Ragù alla Bolognese",
+        "amt": "280",
+        "ftype": "Non-Veg",
+        "img": "https://cdn.tasteatlas.com/images/dishes/8889349736294b0a929b69eb29d67dad.jpg",
+        "desp": "Traditional dish from Bologna with tagliatelle pasta and a rich meat sauce made with minced beef and pork, and tomatoes."
+    },
+    {
+        "id": 6,
+        "name": "Fritto Misto",
+        "amt": "300",
+        "ftype": "Non-Veg",
+        "img": "https://th.bing.com/th/id/OIP.fD3RGs5DP7ibdWnx8FC0_AHaHa?rs=1&pid=ImgDetMain",
+        "desp": "Mixed fried seafood, typically including shrimp, squid, and fish, lightly coated in flour and fried."
+    },
+    {
+        "id": 7,
+        "name": "Linguine allo Scoglio",
+        "amt": "260",
+        "ftype": "Non-Veg",
+        "img": "https://2.bp.blogspot.com/-WhfUkvlZSmw/XEZAiCbSfwI/AAAAAAAAKVM/CQ-mbOvZ06gO_yC1qwWCQGSmM_-UBlR2ACLcBGAs/s1600/1479399806681.jpg",
+        "desp": "Seafood pasta from Campania, made with linguine, clams, mussels, shrimp, and tomatoes."
+    },
+    {
+        "id": 8,
+        "name": "Pasta alla Gricia",
+        "amt": "240",
+        "ftype": "Non-Veg",
+        "img": "https://th.bing.com/th/id/OIP.xOhtjKr27UbISfJMKRaGyQHaFs?rs=1&pid=ImgDetMain",
+        "desp": "Traditional pasta dish from Grisciano with guanciale, Pecorino Romano, and black pepper."
+    },
+    {
+        "id": 9,
+        "name": "Bistecca alla Fiorentina",
+        "amt": "450",
+        "ftype": "Non-Veg",
+        "img": "https://th.bing.com/th/id/OIP.qCUpxiYF65IZIssqWWcCtQHaE6?rs=1&pid=ImgDetMain",
+        "desp": "Grilled T-bone steak from Florence, typically seasoned with olive oil, salt, and pepper, and served rare."
+    },
+    {
+        "id": 10,
+        "name": "Parmigiana alla Napoletana",
+        "amt": "320",
+        "ftype": "Veg",
+        "img": "https://www.napoli-turistica.com/wp-content/uploads/2018/01/parmigiana-di-melanzane-2.jpg",
+        "desp": "Casserole dish from Campania with layered eggplant, tomato sauce, mozzarella, and Parmesan cheese."
+    }
+]
