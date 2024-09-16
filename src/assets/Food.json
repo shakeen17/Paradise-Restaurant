@@ -1,12 +1,13 @@
 [
     {
-        "id": 1,
+        "id": 1, 
         "name": "Arabian Buttered Eggs with Mint and Lemon",
         "amt": "299",
         "ftype": "Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/2.-Arabian-Buttered-Eggs-with-Mint-and-Lemon.jpg",
         "desp": "Traditional Arabian recipes served with homemade staples like labneh, nabulsi cheese, jams, zaatar, dukka, and olive oil.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "ftype": "Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/3.-Masoub-a-Saudi-Arabian-Banana-Breakfast-.jpg",
         "desp": "Popular Masoub Saudi breakfast recipe, a banana dish, favorite Arabic breakfast.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/4.-Shakshuka-A-delicious-Middle-Eastern-Egg-Dish.jpg",
         "desp": "Eggs poached in tomato sauce with onions and bell peppers, a traditional Arabian breakfast.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "ftype": "Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/5.-Arabian-Foul-or-Fava-Bean-Breakfast.jpg",
         "desp": "Hummus, boiled eggs with zaatar, spicy Foul, and labneh yogurt cheese.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/7.-Saudi-Jareesh-Recipe.jpg",
         "desp": "Jareesh, a popular dish with crushed wheat, yogurt, and meat from Saudi Arabia.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "ftype": "Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/9.-Burnt-Leek-Caper-Berry-Dip.jpg",
         "desp": "Rich, roasted leeks with caper berry flavor and fresh dipping veggies.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/10.-Arabian-Falafel-Recipe.jpg",
         "desp": "Deep-fried balls or patties, a popular snack in the Middle East.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/11.-Al-Kabsa.jpg",
         "desp": "Traditional Arabian rice dish made with chicken, sometimes lamb.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/12.-Arabian-Chicken-Mandi-Recipe.jpg",
         "desp": "Chicken Mandi with mandi powder over basmati rice, a traditional Arabian recipe.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/13.-Chicken-Machboos.jpg",
         "desp": "Popular rice dish from the Arabian Gulf made with lamb or chicken.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 11,
@@ -96,7 +106,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/14.-Chicken-Shawarma.jpg",
         "desp": "Traditional Arabian recipe for delicious chicken shawarma.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 12,
@@ -105,7 +116,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/15.-Saffron-Fish-and-Rice-with-Tahini-and-Toasted-Nuts.jpg",
         "desp": "Fish and rice cooked separately, arranged in a platter for consistency.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/17.-Arabian-Lamb-Stew.jpg",
         "desp": "Loaded with tender lamb and earthy, warm Arabian spices.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "ftype": "Non-Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/18.-Arabian-Chicken-Stew.jpg",
         "desp": "Tender chicken, potatoes, carrots with earthy spices like cumin and coriander.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 15,
@@ -132,7 +146,8 @@
         "ftype": "Veg",
         "img": "https://ourbigescape.com/wp-content/uploads/2022/09/20.-Arabic-Lentil-Soup.jpg",
         "desp": "Made with vegetables and lentils, simmered with cinnamon and cumin.",
-        "category": "Arabian"
+        "category": "Arabian",
+        "count" : 1
     },
     {
         "id": 16,
@@ -141,7 +156,8 @@
         "ftype": "Veg",
         "img": "https://www.theendlessmeal.com/wp-content/uploads/2021/06/Paneer-Butter-Masala-3-scaled.jpg",
         "desp": "Paneer cubes in rich tomato gravy with butter and cream.",
-        "category": "Indian"
+        "category": "Indian",
+        "count" : 1
     },
     {
         "id": 17,
@@ -150,7 +166,8 @@
         "ftype": "Veg",
         "img": "https://2.bp.blogspot.com/-w4KOeWh0DXk/UA7pfsmVXhI/AAAAAAAARSk/qAOZ30Zy1AM/s640/cb+five+s.jpg",
         "desp": "Spicy chickpeas served with deep-fried bread called bhature.",
-        "category": "Indian"
+        "category": "Indian",
+        "count" : 1
     },
     {
         "id": 18,
@@ -159,7 +176,8 @@
         "ftype": "Veg",
         "img": "https://th.bing.com/th/id/OIP.cfntQFWlJDxXgMTmomYfTgHaE8?rs=1&pid=ImgDetMain",
         "desp": "Mixed vegetables and rice cooked with aromatic spices and herbs.",
-        "category": "Indian"
+        "category": "Indian",
+        "count" : 1
     },
     {
         "id": 19,
@@ -168,330 +186,657 @@
         "ftype": "Veg",
         "img": "https://foodiewish.com/wp-content/uploads/2020/05/Masala-Dosa-Recipe.jpg",
         "desp": "Crispy rice crepe filled with spicy mashed potatoes.",
-        "category": "Indian"
+        "category": "Indian",
+        "count" : 1
     },
     {
         "id": 20,
-        "name": "Butter Chicken",
-        "amt": "249",
-        "ftype": "Non-Veg",
-        "img": "https://www.licious.in/blog/wp-content/uploads/2022/06/butter-chicken-.jpg",
-        "desp": "Chicken cooked in rich, creamy tomato-based gravy.",
-        "category": "Indian"
+        "name": "Palak Paneer",
+        "amt": "349",
+        "ftype": "Veg",
+        "img": "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured.jpg",
+        "desp": "Paneer cubes cooked in a spinach-based curry with spices.",
+        "category": "Indian",
+        "count" : 1
     },
     {
         "id": 21,
-        "name": "Pani Puri",
-        "amt": "99",
-        "ftype": "Veg",
-        "img": "https://static.toiimg.com/thumb/53672832.cms?width=1200&height=900",
-        "desp": "Crispy puris filled with spicy tangy water and potato filling.",
-        "category": "Indian"
+        "name": "Butter Chicken",
+        "amt": "399",
+        "ftype": "Non-Veg",
+        "img": "https://easychickenrecipes.com/wp-content/uploads/2019/11/butter-chicken-reshoot-5-of-8.jpg",
+        "desp": "Tender chicken cooked in a creamy tomato-based gravy.",
+        "category": "Indian",
+        "count" : 1
     },
     {
         "id": 22,
-        "name": "Chicken Tikka Masala",
+        "name": "Mutton Rogan Josh",
+        "amt": "449",
+        "ftype": "Non-Veg",
+        "img": "https://holidayshunt.com/wp-content/uploads/2022/06/Mutton-Roganjosh-scaled-1.jpg",
+        "desp": "Slow-cooked mutton curry with rich spices and yogurt.",
+        "category": "Indian",
+        "count" : 1
+    },
+    { 
+        "id": 23,
+        "name": "Fish Curry",
         "amt": "299",
         "ftype": "Non-Veg",
-        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/chicken-tikka-masala-recipe.jpg",
-        "desp": "Marinated chicken cooked in a rich, creamy tomato sauce.",
-        "category": "Indian"
-    },
-    {
-        "id": 23,
-        "name": "Rogan Josh",
-        "amt": "349",
-        "ftype": "Non-Veg",
-        "img": "https://sanjeevkapoor.com/UploadFiles/RecipeImages/Lamb-Rogan-Josh-.jpg",
-        "desp": "Lamb curry cooked in a rich, aromatic gravy.",
-        "category": "Indian"
+        "img": "https://food-images.files.bbci.co.uk/food/recipes/fish_curry_09718_16x9.jpg",
+        "desp": "Fish cooked in a tangy, spicy curry with coconut.",
+        "category": "Indian",
+        "count" : 1
     },
     {
         "id": 24,
-        "name": "Aloo Paratha",
-        "amt": "99",
-        "ftype": "Veg",
-        "img": "https://www.cookwithmanali.com/wp-content/uploads/2021/07/Aloo-Paratha.jpg",
-        "desp": "Flatbread stuffed with spicy mashed potatoes.",
-        "category": "Indian"
+        "name": "Chicken Tikka Masala",
+        "amt": "349",
+        "ftype": "Non-Veg",
+        "img": "https://149433378.v2.pressablecdn.com/wp-content/uploads/2020/08/Chicken-Tikka-Masala-scaled.jpg",
+        "desp": "Grilled chicken chunks in a spicy, creamy tomato gravy.",
+        "category": "Indian",
+        "count" : 1
     },
     {
         "id": 25,
-        "name": "Samosa",
-        "amt": "49",
-        "ftype": "Veg",
-        "img": "https://www.thespruceeats.com/thmb/BJZcZBgPVuob1RtMxOhxtX3j0lc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-samosa-recipe-1957699-hero-01-909c015e9dc1494598e8b25ef9b2b28a.jpg",
-        "desp": "Deep-fried pastry filled with spicy potatoes and peas.",
-        "category": "Indian"
+        "name": "Prawn Pulao",
+        "amt": "379",
+        "ftype": "Non-Veg",
+        "img": "https://th.bing.com/th/id/OIP.sW5tNbWCYrRYEAlsyJ0_egHaE8?rs=1&pid=ImgDetMain",
+        "desp": "Prawns cooked with fragrant basmati rice and aromatic spices.",
+        "category": "Indian",
+        "count" : 1
     },
     {
         "id": 26,
-        "name": "Fish Curry",
-        "amt": "329",
-        "ftype": "Non-Veg",
-        "img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl-sunitha/kerala_style_nadan_fish_curry.jpg",
-        "desp": "Fish cooked in a tangy and spicy curry sauce.",
-        "category": "Indian"
+        "name": "Idli",
+        "amt": "99",
+        "ftype": "Veg",
+        "img": "https://img.freepik.com/premium-photo/idli-vada-with-sambar-pr-sambhar-also-called-medu-wada-rice-cake_466689-78685.jpg?w=2000",
+        "desp": "Steamed rice cakes served with sambar and coconut chutney.",
+        "category": "Indian",
+        "count" : 1
     },
+
     {
         "id": 27,
-        "name": "Malai Kofta",
-        "amt": "349",
-        "ftype": "Veg",
-        "img": "https://static.toiimg.com/thumb/54308405.cms?width=1200&height=900",
-        "desp": "Fried balls of potato and paneer in a creamy gravy.",
-        "category": "Indian"
+        "name": "Peking Roasted Duck",
+        "amt": "350",
+        "ftype": "Non-Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2021/12/d247e7d25b164b77841f6022_cut_750x400_39.webp",
+        "desp": "Thin and crispy duck skin, often eaten with pancakes and sauces.",
+        "category": "Chinese",
+        "count" : 1
     },
     {
         "id": 28,
-        "name": "Lamb Vindaloo",
-        "amt": "379",
+        "name": "Kung Pao Chicken",
+        "amt": "250",
         "ftype": "Non-Veg",
-        "img": "https://www.seriouseats.com/thmb/vxk1z6tGp6K0K0Eqtfo8VnhLfXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20200103-Lamb-Vindaloo-Jessica-Gavin-hero-01-e495ee39ddc046b89b96da3d6bc101b2.jpg",
-        "desp": "Spicy and tangy lamb curry from Goa.",
-        "category": "Indian"
+        "img": "https://images.chinahighlights.com/allpicture/2019/11/31acb7b302ec4b48b17443ed_cut_750x400_39.webp",
+        "desp": "Spicy Sichuan dish with diced chicken, chili, cucumber, and peanuts.",
+        "category": "Chinese",
+        "count" : 1
     },
     {
         "id": 29,
-        "name": "Chicken Biryani",
-        "amt": "279",
+        "name": "Sweet and Sour Pork",
+        "amt": "220",
         "ftype": "Non-Veg",
-        "img": "https://www.whiskaffair.com/wp-content/uploads/2019/03/Chicken-Biryani-3-3.jpg",
-        "desp": "Fragrant rice cooked with chicken and spices.",
-        "category": "Indian"
+        "img": "https://images.chinahighlights.com/allpicture/2019/11/a4ad4a7fe0cb401cb0be6383_cut_750x400_39.webp",
+        "desp": "Bright orange-red pork with a delicious sweet and sour taste.",
+        "category": "Chinese",
+        "count" : 1
     },
     {
         "id": 30,
-        "name": "Tandoori Chicken",
-        "amt": "299",
+        "name": "Hot Pot",
+        "amt": "300",
         "ftype": "Non-Veg",
-        "img": "https://www.simplyrecipes.com/thmb/fqlPa-gmPIs1--5jiW2M2cZ4kGk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Tandoori-Chicken-LEAD-7-1b95384b70e64d8eb3ad3662b31ebc89.jpg",
-        "desp": "Marinated chicken grilled in a tandoor oven.",
-        "category": "Indian"
+        "img": "https://images.chinahighlights.com/allpicture/2019/01/482fb1f829ce4e6496b94fea_cut_750x400_39.webp",
+        "desp": "Simmering pot of broth with various meats and vegetables cooked at the table.",
+        "category": "Chinese",
+        "count" : 1
     },
     {
         "id": 31,
-        "name": "Bangers and Mash",
-        "amt": "329",
+        "name": "Dim Sum",
+        "amt": "200",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bangers_and_Mash-01.jpg",
-        "desp": "British dish with sausages and mashed potatoes.",
-        "category": "British"
+        "img": "https://images.chinahighlights.com/allpicture/2018/08/16d96371fd2944be86ffbdc1_cut_750x400_39.webp",
+        "desp": "Cantonese dish with a variety of small items like dumplings and rolls.",
+        "category": "Chinese",
+        "count" : 1
     },
     {
         "id": 32,
-        "name": "Fish and Chips",
-        "amt": "299",
+        "name": "Dumplings",
+        "amt": "150",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Fish_and_chips_blackpool.jpg",
-        "desp": "Fried fish fillet served with chips.",
-        "category": "British"
+        "img": "https://images.chinahighlights.com/allpicture/2019/01/9b7159f6d89449d997eaa5ab_cut_750x400_39.webp",
+        "desp": "Minced meat and vegetables wrapped in dough, boiled, steamed, or fried.",
+        "category": "Chinese",
+        "count" : 1
     },
     {
         "id": 33,
-        "name": "Shepherd's Pie",
-        "amt": "349",
-        "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Shepherd%27s_pie_with_cheese.jpg",
-        "desp": "Cottage pie made with minced meat and mashed potatoes.",
-        "category": "British"
+        "name": "Ma Po Tofu",
+        "amt": "180",
+        "ftype": "Veg",
+        "img": "https://images.chinahighlights.com/allpicture/2019/11/62745d5a726045e4a99a3885_cut_750x400_39.webp",
+        "desp": "Spicy tofu with minced meat, fermented black beans, and chili paste.",
+        "category": "Chinese",
+        "count" : 1
     },
     {
         "id": 34,
-        "name": "Beef Wellington",
-        "amt": "799",
+        "name": "Char Siu",
+        "amt": "240",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Beef_Wellington_2014.JPG",
-        "desp": "Fillet steak coated with pâté and duxelles, wrapped in puff pastry.",
-        "category": "British"
+        "img": "https://images.chinahighlights.com/allpicture/2021/12/a57fdce570494d41b624119d_cut_750x400_39.webp",
+        "desp": "Cantonese roast pork, often eaten with rice or as a filling in buns.",
+        "category": "Chinese",
+        "count" : 1
     },
     {
         "id": 35,
-        "name": "Chicken Tikka Masala",
-        "amt": "329",
+        "name": "Chow Mein",
+        "amt": "200",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Chicken_tikka_masala.jpg",
-        "desp": "Chicken in spiced curry sauce, popular in the UK.",
-        "category": "British"
+        "img": "https://images.chinahighlights.com/allpicture/2018/03/10725167158a4b8589bf3140_cut_750x400_39.webp",
+        "desp": "Stir-fried noodles with meat, onions, and celery, invented to preserve food.",
+        "category": "Chinese",
+        "count" : 1
     },
     {
         "id": 36,
-        "name": "Sunday Roast",
-        "amt": "399",
+        "name": "Twice-Cooked Pork Slices",
+        "amt": "180",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sunday_roast_-_roast_beef_1.jpg",
-        "desp": "Traditional British roast dinner with meat, potatoes, and vegetables.",
-        "category": "British"
+        "img": "https://images.chinahighlights.com/allpicture/2021/12/8189b6d0265149138f394b89_cut_750x400_39.webp",
+        "desp": "Fried rice with eggs, vegetables, and meat, popular and easy to make.",
+        "category": "Chinese",
+        "count" : 1
     },
+
     {
         "id": 37,
-        "name": "Cornish Pasty",
-        "amt": "279",
-        "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Cornish_pasty.jpg",
-        "desp": "Pastry filled with beef and vegetables.",
-        "category": "British"
+        "name": "Burrata",
+        "amt": "350",
+        "ftype": "Veg",
+        "img": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/05/burrata.jpg",
+        "desp": "Artisan cheese from Puglia, made with cow's milk, rennet, and cream, known for its creamy interior and rich flavor.",
+        "category": "Italian",
+        "count" : 1
     },
     {
         "id": 38,
-        "name": "Steak and Kidney Pie",
-        "amt": "329",
+        "name": "Prosciutto di Parma",
+        "amt": "400",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Steak_and_kidney_pie.jpg",
-        "desp": "Pie filled with diced beef, kidney, and gravy.",
-        "category": "British"
+        "img": "https://img.ev.mu/images/attractions/5550/960x640/282778.jpg",
+        "desp": "Cured ham from Parma, made with high-quality pigs and sea salt, known for its delicate flavor and texture.",
+        "category": "Italian",
+        "count" : 1
     },
     {
         "id": 39,
-        "name": "Eton Mess",
-        "amt": "199",
-        "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Eton_mess_The_Pig.jpg",
-        "desp": "Dessert made with strawberries, meringue, and cream.",
-        "category": "British"
+        "name": "Panino col Polpo",
+        "amt": "200",
+        "ftype": "Non-Veg",
+        "img": "https://cdn.tasteatlas.com/images/dishes/b45530b813014cf0a8d6b69fea151073.jpg",
+        "desp": "Traditional sandwich from Bari with grilled octopus, bread, olive oil, parsley, salt, and pepper.",
+        "category": "Italian",
+        "count" : 1
     },
     {
         "id": 40,
-        "name": "Victoria Sponge Cake",
-        "amt": "249",
-        "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Victoria_sponge_cake_%28cut%29.jpg",
-        "desp": "Cake with layers of jam and cream.",
-        "category": "British"
+        "name": "Pasta Carbonara",
+        "amt": "250",
+        "ftype": "Non-Veg",
+        "img": "https://th.bing.com/th/id/R.415f6084504f1642b7f92b98ce13430f?rik=CgPH9IoM17NyIg&riu=http%3a%2f%2ffoodwhirl.com%2fwp-content%2fuploads%2f2017%2f02%2fspaghetti-carbonara-insta.jpg&ehk=k6BrmXRCK%2bjCz6K8qHVVhXFVe%2fO7GbyUM0uaGzNJq20%3d&risl=&pid=ImgRaw&r=0",
+        "desp": "Classic Roman pasta dish with spaghetti, guanciale, egg yolks, and Pecorino Romano cheese.",
+        "category": "Italian",
+        "count" : 1
     },
     {
         "id": 41,
-        "name": "Haggis",
-        "amt": "279",
+        "name": "Tagliatelle al Ragù alla Bolognese",
+        "amt": "280",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Haggis_neeps_tatties.jpg",
-        "desp": "Savory pudding containing sheep's pluck, onion, oatmeal, and spices.",
-        "category": "British"
+        "img": "https://cdn.tasteatlas.com/images/dishes/8889349736294b0a929b69eb29d67dad.jpg",
+        "desp": "Traditional dish from Bologna with tagliatelle pasta and a rich meat sauce made with minced beef and pork, and tomatoes.",
+        "category": "Italian",
+        "count" : 1
     },
     {
         "id": 42,
-        "name": "Scotch Egg",
-        "amt": "149",
+        "name": "Fritto Misto",
+        "amt": "300",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Scotch_egg_-_studio.jpg",
-        "desp": "Boiled egg wrapped in sausage meat, breaded, and fried.",
-        "category": "British"
+        "img": "https://th.bing.com/th/id/OIP.fD3RGs5DP7ibdWnx8FC0_AHaHa?rs=1&pid=ImgDetMain",
+        "desp": "Mixed fried seafood, typically including shrimp, squid, and fish, lightly coated in flour and fried.",
+        "category": "Italian",
+        "count" : 1
     },
     {
         "id": 43,
-        "name": "Sticky Toffee Pudding",
-        "amt": "229",
-        "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sticky_toffee_pudding.jpg",
-        "desp": "Moist sponge cake with finely chopped dates and toffee sauce.",
-        "category": "British"
+        "name": "Linguine allo Scoglio",
+        "amt": "260",
+        "ftype": "Non-Veg",
+        "img": "https://2.bp.blogspot.com/-WhfUkvlZSmw/XEZAiCbSfwI/AAAAAAAAKVM/CQ-mbOvZ06gO_yC1qwWCQGSmM_-UBlR2ACLcBGAs/s1600/1479399806681.jpg",
+        "desp": "Seafood pasta from Campania, made with linguine, clams, mussels, shrimp, and tomatoes.",
+        "category": "Italian",
+        "count" : 1
     },
     {
         "id": 44,
-        "name": "Welsh Rarebit",
-        "amt": "159",
-        "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Welsh_Rarebit.jpg",
-        "desp": "Toasted bread with a melted cheese sauce.",
-        "category": "British"
+        "name": "Pasta alla Gricia",
+        "amt": "240",
+        "ftype": "Non-Veg",
+        "img": "https://th.bing.com/th/id/OIP.xOhtjKr27UbISfJMKRaGyQHaFs?rs=1&pid=ImgDetMain",
+        "desp": "Traditional pasta dish from Grisciano with guanciale, Pecorino Romano, and black pepper.",
+        "category": "Italian",
+        "count" : 1
     },
     {
         "id": 45,
-        "name": "Chole Bhature",
-        "amt": "149",
-        "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cholebhature.jpg",
-        "desp": "Spicy chickpeas served with fried bread.",
-        "category": "Indian"
+        "name": "Bistecca alla Fiorentina",
+        "amt": "450",
+        "ftype": "Non-Veg",
+        "img": "https://th.bing.com/th/id/OIP.qCUpxiYF65IZIssqWWcCtQHaE6?rs=1&pid=ImgDetMain",
+        "desp": "Grilled T-bone steak from Florence, typically seasoned with olive oil, salt, and pepper, and served rare.",
+        "category": "Italian",
+        "count" : 1
     },
     {
         "id": 46,
-        "name": "Bhel Puri",
-        "amt": "79",
+        "name": "Parmigiana alla Napoletana",
+        "amt": "320",
         "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bhelpuri_Stall.jpg",
-        "desp": "Puffed rice mixed with vegetables, tangy tamarind sauce.",
-        "category": "Indian"
+        "img": "https://www.napoli-turistica.com/wp-content/uploads/2018/01/parmigiana-di-melanzane-2.jpg",
+        "desp": "Casserole dish from Campania with layered eggplant, tomato sauce, mozzarella, and Parmesan cheese.",
+        "category": "Italian",
+        "count" : 1
     },
+
     {
         "id": 47,
-        "name": "Chicken Caesar Salad",
-        "amt": "229",
+        "name": "Hyderabadi Chicken Biryani",
+        "amt": "299",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Chicken_Caesar_Salad_%281%29.jpg",
-        "desp": "Grilled chicken on a bed of romaine lettuce with Caesar dressing.",
-        "category": "Salad"
+        "img": "https://i1.wp.com/swatisani.net/kitchen/wp-content/uploads/2015/10/IMG_9526.jpg?fit=942,628&ssl=1",
+        "desp": "Fragrant rice layered with spicy marinated chicken, saffron, and fried onions.",
+        "category": "Biriyani",
+        "count" : 1
     },
     {
         "id": 48,
-        "name": "Greek Salad",
-        "amt": "199",
-        "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Greek_salad_%282%29.jpg",
-        "desp": "Salad with tomatoes, cucumbers, olives, feta cheese, and oregano.",
-        "category": "Salad"
+        "name": "Thalassery Chicken Biryani",
+        "amt": "279",
+        "ftype": "Non-Veg",
+        "img": "https://th.bing.com/th/id/OIP.Hc7a8rSXCl6yCHJsIZGTIgHaE8?rs=1&pid=ImgDetMain",
+        "desp": "Delicious Malabar style biryani made with aromatic rice and chicken.",
+        "category": "Biriyani",
+        "count" : 1
     },
     {
         "id": 49,
-        "name": "Caprese Salad",
-        "amt": "179",
-        "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Caprese_salad_plate.jpg",
-        "desp": "Tomato, mozzarella, and basil salad, seasoned with salt and olive oil.",
-        "category": "Salad"
+        "name": "Ambur Chicken Biryani",
+        "amt": "289",
+        "ftype": "Non-Veg",
+        "img": "https://www.currytrail.in/wp-content/uploads/2015/03/Ambur-Chicken-Biryani-21.jpg",
+        "desp": "Spicy and flavorful biryani from Ambur, Tamil Nadu, famous for its taste.",
+        "category": "Biriyani",
+        "count" : 1
     },
     {
         "id": 50,
-        "name": "Pasta Salad",
-        "amt": "199",
-        "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pasta_salad_closeup.JPG",
-        "desp": "Salad made with cooked pasta, vegetables, and dressing.",
-        "category": "Salad"
+        "name": "Kolkata Chicken Biryani",
+        "amt": "269",
+        "ftype": "Non-Veg",
+        "img": "https://1.bp.blogspot.com/-FSWezjzd4HU/X2T2LtUj3MI/AAAAAAAAOSo/4PAPP8x_j9kDxBQY85AkHKU5SUElb1u0ACLcBGAsYHQ/s1500/Kolkata%2Bstyle%2Bchicken%2Bbiryani.jpeg",
+        "desp": "Traditional Kolkata style biryani with succulent chicken and fragrant rice.",
+        "category": "Biriyani",
+        "count" : 1
     },
     {
         "id": 51,
-        "name": "Tuna Salad",
-        "amt": "249",
+        "name": "Malabar Fish Biryani",
+        "amt": "319",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tuna_Salad.jpg",
-        "desp": "Salad made with canned tuna, mayonnaise, and various vegetables.",
-        "category": "Salad"
+        "img": "https://img.onmanorama.com/content/dam/mm/en/food/recipe/images/2021/1/11/fish-biriyani.jpg",
+        "desp": "Authentic Malabar biryani with tender fish marinated in spices and rice.",
+        "category": "Biriyani",
+        "count" : 1
     },
     {
         "id": 52,
-        "name": "Cobb Salad",
-        "amt": "279",
-        "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Cobb_Salad_with_shrimp%2C_Marion%27s_Inn%2C_Oakland%2C_California.JPG",
-        "desp": "Salad with chicken, bacon, avocado, blue cheese, and vinaigrette.",
-        "category": "Salad"
+        "name": "Vegetable Biryani",
+        "amt": "239",
+        "ftype": "Veg",
+        "img": "https://www.zeelskitchen.com/wp-content/uploads/2015/07/Vegtable_Biryani_14.jpg",
+        "desp": "Flavorful rice cooked with mixed vegetables, herbs, and spices.",
+        "category": "Biriyani",
+        "count" : 1
     },
     {
         "id": 53,
-        "name": "Niçoise Salad",
-        "amt": "269",
+        "name": "Egg Biryani",
+        "amt": "259",
         "ftype": "Non-Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Salade_nicoise_1.jpg",
-        "desp": "Salad with tuna, olives, anchovies, tomatoes, and green beans.",
-        "category": "Salad"
+        "img": "https://www.lekhafoods.com/media/1050910/egg-biryani.jpg",
+        "desp": "Scrumptious biryani with boiled eggs, aromatic spices, and basmati rice.",
+        "category": "Biriyani",
+        "count" : 1
     },
+
+
     {
         "id": 54,
-        "name": "Waldorf Salad",
-        "amt": "199",
+        "name": "Four Cheese Pasta",
+        "amt": "129",
         "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Waldorf_salad%2C_Lake_Lawn_Resort.jpg",
-        "desp": "Salad with apples, celery, grapes, and walnuts in mayonnaise dressing.",
-        "category": "Salad"
+        "img": "https://i.ndtvimg.com/i/2016-05/pasta_612x350_51462301184.jpg",
+        "desp": "Parmesan, Cheddar, Brie, and Emmental in a cheesy pasta.",
+        "category": "Pasta",
+        "count" : 1
     },
     {
         "id": 55,
-        "name": "Kachumber Salad",
-        "amt": "129",
+        "name": "Pasta Carbonara",
+        "amt": "139",
         "ftype": "Veg",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kachumber_salat.jpg",
-        "desp": "Indian salad made with tomatoes, cucumbers, onions, and spices.",
-        "category": "Salad"
+        "img": "https://i.ndtvimg.com/i/2016-05/cksaha_625x350_71462302494.png",
+        "desp": "Pasta popular with coal miners, traditionally made with guanciale.",
+        "category": "Pasta",
+        "count" : 1
+    },
+    {
+        "id": 56,
+        "name": "Gnocchi with Tomato Sauce",
+        "amt": "149",
+        "ftype": "Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/gnocchi_625x350_51462300908.png",
+        "desp": "Gnocchi dumplings with wheat flour, potato, semolina, egg, breadcrumbs.",
+        "category": "Pasta",
+        "count" : 1
+    },
+    {
+        "id": 57,
+        "name": "Pasta Con Pomodoro E Basilico",
+        "amt": "159",
+        "ftype": "Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/pasta_625x350_51462301286.jpg",
+        "desp": "Pasta with tomato and basil sauce, simple and classic.",
+        "category": "Pasta",
+        "count" : 1
+    },
+    {
+        "id": 58,
+        "name": "Home-Style Baked Pasta",
+        "amt": "169",
+        "ftype": "Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/pasta_625x350_71462301323.jpg",
+        "desp": "Pasta, cheese, veggies, and tomato sauce baked till golden.",
+        "category": "Pasta",
+        "count" : 1
+    },
+    {
+        "id": 59,
+        "name": "Ravioli with Coconut Milk & Lemongrass",
+        "amt": "179",
+        "ftype": "Non-Veg",
+        "img": "https://i.ndtvimg.com/i/2016-05/ravioli_625x350_61462302281.png",
+        "desp": "Ravioli stuffed with veggie mix, drizzled with coconut milk sauce.",
+        "category": "Pasta",
+        "count" : 1
+    },
+    {
+        "id": 60,
+        "name": "Spaghetti Carbonara",
+        "amt": "189",
+        "ftype": "Non-Veg",
+        "img": "https://s23209.pcdn.co/wp-content/uploads/2014/03/IMG_2694edit-1.jpg",
+        "desp": "Bacon, eggs, and parmesan cheese in a protein-packed dish.",
+        "category": "Pasta",
+        "count" : 1
+    },
+    {
+        "id": 61,
+        "name": "Shrimp Scampi Pasta",
+        "amt": "199",
+        "ftype": "Non-Veg",
+        "img": "https://www.foodiecrush.com/wp-content/uploads/2013/07/Shrimp-Scampi-Pasta-FoodieCrush.com009.jpg",
+        "desp": "Shrimps in a low-fat, low-calorie, protein-rich pasta dish.",
+        "category": "Pasta",
+        "count" : 1
+    },
+    {
+        "id": 62,
+        "name": "Skillet Italian Sausage and Peppers with Penne",
+        "amt": "209",
+        "ftype": "Non-Veg",
+        "img": "https://ohsweetbasil.com/wp-content/uploads/2014/01/Skillet-Peppers-and-Italian-Sausage-with-Penne.jpg",
+        "desp": "Italian sausage with high protein, served with peppers and penne.",
+        "category": "Pasta",
+        "count" : 1
+    },
+    {
+        "id": 63,
+        "name": "Chicken Bruschetta Pasta",
+        "amt": "219",
+        "ftype": "Non-Veg",
+        "img": "https://diethood.com/wp-content/uploads/2013/09/Chicken-Bruschetta-Pasta-Diethood.jpg",
+        "desp": "Chicken with pasta, a family favorite with chewy, soft textures.",
+        "category": "Pasta",
+        "count" : 1
+    },
+
+
+    {
+        "id": 64,
+        "name": "Gelato",
+        "amt": "150",
+        "ftype": "Veg",
+        "img": "https://worldofwanderlust.com/wp-content/uploads/2018/06/Rome-2.jpg",
+        "desp": "Creamy Italian frozen dessert made with milk, sugar, and flavors.",
+        "category": "Dessert",
+        "count" : 1
+    },
+    {
+        "id": 65,
+        "name": "Pavlova",
+        "amt": "180",
+        "ftype": "Veg",
+        "img": "https://worldofwanderlust.com/wp-content/uploads/2015/11/0C3A8892-1024x736.jpg",
+        "desp": "Meringue-based dessert topped with whipped cream and fresh fruits.",
+        "category": "Dessert",
+        "count" : 1
+    },
+    {
+        "id": 66,
+        "name": "Banoffee Pie",
+        "amt": "200",
+        "ftype": "Veg",
+        "img": "https://worldofwanderlust.com/wp-content/uploads/2016/07/Banoffee.jpg",
+        "desp": "Pie with bananas, cream, toffee, and a buttery biscuit base.",
+        "category": "Dessert",
+        "count" : 1
+    },
+    {
+        "id": 67,
+        "name": "Portuguese Tarts",
+        "amt": "160",
+        "ftype": "Veg",
+        "img": "https://worldofwanderlust.com/wp-content/uploads/2015/10/0C3A7802-768x1152.jpg",
+        "desp": "Custard tarts with flaky pastry and caramelized sugar topping.",
+        "category": "Dessert",
+        "count" : 1
+    },
+    {
+        "id": 68,
+        "name": "S’mores",
+        "amt": "120",
+        "ftype": "Veg",
+        "img": "https://worldofwanderlust.com/wp-content/uploads/2016/07/Smores-Cookie-Cake.jpg",
+        "desp": "Graham crackers, marshmallows, and chocolate toasted together.",
+        "category": "Dessert",
+        "count" : 1
+    },
+    {
+        "id": 69,
+        "name": "Tiramisu",
+        "amt": "250",
+        "ftype": "Veg",
+        "img": "https://worldofwanderlust.com/wp-content/uploads/2016/07/Tiramisu-Recipe.jpg",
+        "desp": "Coffee-flavored Italian dessert with layers of mascarpone cheese.",
+        "category": "Dessert",
+        "count" : 1
+    },
+    {
+        "id": 70,
+        "name": "Belgian Waffles",
+        "amt": "170",
+        "ftype": "Veg",
+        "img": "https://worldofwanderlust.com/wp-content/uploads/2016/07/2A2A3709.jpg",
+        "desp": "Crispy waffles served with syrup, whipped cream, or fresh fruits.",
+        "category": "Dessert",
+        "count" : 1
+    },
+    {
+        "id": 71,
+        "name": "American Brownies",
+        "amt": "140",
+        "ftype": "Veg",
+        "img": "https://worldofwanderlust.com/wp-content/uploads/2016/07/Brownie.jpg",
+        "desp": "Rich, fudgy chocolate brownies with a dense and moist texture.",
+        "category": "Dessert",
+        "count" : 1
+    },
+    {
+        "id": 72,
+        "name": "Milky Cake",
+        "amt": "190",
+        "ftype": "Veg",
+        "img": "https://th.bing.com/th/id/OIP.rSwMUUHIfgqqXirp3DqPmQHaE7?rs=1&pid=ImgDetMain",
+        "desp": "Soft sponge cake soaked in sweetened milk mixture.",
+        "category": "Dessert",
+        "count" : 1
+    },
+    {
+        "id": 73,
+        "name": "Sticky Date Pudding",
+        "amt": "220",
+        "ftype": "Veg",
+        "img": "https://worldofwanderlust.com/wp-content/uploads/2016/07/2A2A3783.jpg",
+        "desp": "Moist cake made with dates, served with caramel sauce.",
+        "category": "Dessert",
+        "count" : 1
+    },
+
+
+    {
+        "id": 74,
+        "name": "Bourbon Old Fashioned",
+        "amt": "250",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/NtKmemhR70zK-UiAaxi2aO9Fgng=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08113350__bourbon-old-fashioned-720x720-recipe-ade6f7780c304999be3577e565c9bcdd.jpg",
+        "desp": "Classic cocktail with bourbon, sugar, water, and bitters.",
+        "category": "Drinks",
+        "count" : 1
+    },
+    {
+        "id": 75,
+        "name": "Espresso Martini",
+        "amt": "270",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/oYcd67s80oHaEXX6wuNYcxyqwi0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__01__02100107__espresso-martini-720x720-recipe-Molly-91088f219114414fb063eaab822c619c.jpg",
+        "desp": "Vodka, coffee liqueur, espresso, and simple syrup.",
+        "category": "Drinks",
+        "count" : 1
+    },
+    {
+        "id": 76,
+        "name": "Manhattan",
+        "amt": "260",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/HzpPZK6Lt8iJUGVdQUu4l22TBAo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__10144903__Manhattan-720x720-recipe-9497922907c14d91898f557cb51f2ea3.jpg",
+        "desp": "Elegant mix of rye or bourbon, sweet vermouth, and bitters.",
+        "category": "Drinks",
+        "count" : 1
+    },
+    {
+        "id": 77,
+        "name": "White Russian",
+        "amt": "230",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/XaemNm2tsS18tTHJYsY_gngs0oo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__12__20073201__white-russian-720x720-article-cbe4b9a832c64f8da0bb09407caefa7f.jpg",
+        "desp": "Vodka, Kahlúa, and heavy cream, simple yet comforting.",
+        "category": "Drinks",
+        "count" : 1
+    },
+    {
+        "id": 78,
+        "name": "Dirty Martini",
+        "amt": "250",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/xoR1emCiQQKMkKcCMzuYUfZ2oqg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2011__04__15150034__dirty-martini-720x720-recipe-7127449167d548c981c6103fd60f49b0.jpg",
+        "desp": "Gin or vodka, dry vermouth, and olive brine.",
+        "category": "Drinks",
+        "count" : 1
+    },
+    {
+        "id": 79,
+        "name": "Porn Star Martini",
+        "amt": "280",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/-aBq4APXjBscQqrnd7VtBy6Ab6o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/porn-star-martini-720x720-primary-68432cf5f99740c1933dd26175d77cd0.jpg",
+        "desp": "Vanilla and passionfruit flavors, served with a Champagne chaser.",
+        "category": "Drinks",
+        "count" : 1
+    },
+    {
+        "id": 80,
+        "name": "Margarita",
+        "amt": "240",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/TNSRmlPvZbRnLAxTTYHMtag0oo0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/margarita-720x720-primary-f4a3b044e9a746d9b88890515c3a7328.jpg",
+        "desp": "Tequila, lime juice, and triple sec, beloved cocktail.",
+        "category": "Drinks",
+        "count" : 1
+    },
+    {
+        "id": 81,
+        "name": "Negroni",
+        "amt": "260",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/Rb4smna6Hz2meIPcCOCcbgsyB6g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2018__05__08110806__negroni-720x720-recipe-7c1b747a616f4659af4008d025ab55df.jpg",
+        "desp": "Gin, Campari, and sweet vermouth, equal-parts classic mix.",
+        "category": "Drinks",
+        "count" : 1
+    },
+    {
+        "id": 82,
+        "name": "Mai Tai",
+        "amt": "280",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/yCGQDlzuK4tFL3MQzYJmlKTWctE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mai-tai-720x720-primary-e09e24f1cacd4b3896f5aa32ba51dcdd.jpg",
+        "desp": "Tropical cocktail with rum, lime juice, orgeat, and orange liqueur.",
+        "category": "Drinks",
+        "count" : 1
+    },
+    {
+        "id": 83,
+        "name": "Whiskey Sour",
+        "amt": "230",
+        "ftype": "Drinks",
+        "img": "https://www.liquor.com/thmb/fl-wSducT9GfkX-YdrEMBWd8Slc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/whiskey-sour-720x720-primary-v2-4fc831b613964da5a19cdbfda917d7df.jpg",
+        "desp": "Whiskey, lemon juice, and sugar, a balanced classic.",
+        "category": "Drinks",
+        "count" : 1
     }
+     
 ]

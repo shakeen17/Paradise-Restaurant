@@ -6,30 +6,40 @@ import { Header } from './component/Header';
 import { About } from "./component/About";
 import { Order } from "./component/Order";
 import { Catering } from "./component/Catering";
-import { Arabian } from "./component/Arabian";
-import { Pasta } from "./component/Pasta";
-import { Indian } from "./component/Indian";
-import { Biriyani } from "./component/Biriyani";
-import { createContext, useState } from "react";
-import { Dessert } from "./component/Dessert";
-import { Drinks } from "./component/Drinks";
-import { Chinese } from "./component/Chinese";
-import { Italian } from "./component/Italian";
+
+import { createContext, useState ,useEffect } from "react";
+
 import { Footer } from "./component/Footer";
+import { Product } from "./component/Product";
+import { CardDesign } from "./component/CardDesign";
+import { Loader } from './component/Loader';
+import DisplayData from "./component/DisplayData";
 
 
 
 export const dataContext = createContext();
 function App() {
   
-
   const [cart, setCart] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    setTimeout(() => {
+      setLoading(false);
+    }, 2000); // Show loader for 2 seconds
+  }, []);
+
+  if (loading) {
+    return <Loader />;
+  }
+
+  
   
   return (
     <>
     <dataContext.Provider value = {{cart,setCart}} >
     <BrowserRouter>
-     <Header />
+     <Header count = {cart} />
       <div className="container">
       <Routes>
        <Route path="/" element = {<Home/>} />
@@ -37,14 +47,10 @@ function App() {
        <Route path="/about" element = {<About/>} />
        <Route path="/order" element = {<Order/>} />
        <Route path="/catering" element = {<Catering/>} />
-       <Route path='/Arabian' element = {<Arabian/>} /> 
-       <Route path='/Pasta' element = {<Pasta/>} /> 
-       <Route path='/Indian' element = {<Indian/>} /> 
-       <Route path='/Biriyani' element = {<Biriyani/>} /> 
-       <Route path='/Dessert' element = {<Dessert/>} /> 
-       <Route path='/Drinks' element = {<Drinks/>} />
-       <Route path='/Chinese' element = {<Chinese/>} />
-       <Route path='/Italian' element = {<Italian/>} /> 
+       <Route path='/Product/:category' element = {<Product/>} />
+       <Route path="/displaydata" element = {<DisplayData/>} />
+       <Route path="/carddesign" element = { <CardDesign/> } />
+      
       </Routes>
       </div>
       <Footer/>

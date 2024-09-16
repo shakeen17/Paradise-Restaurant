@@ -1,0 +1,25 @@
+.card {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px); /* Adjust hover elevation */
+  }
+  
+  .card-body {
+    position: relative; /* Ensure normal positioning */
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover .card-body {
+    transform: translateY(-20px); /* Move up by 20px on hover */
+  }
+  
+  .card-img-container {
+    position: relative;
+    overflow: hidden;
+    height: 200px; /* Adjust as needed */
+  }
+  

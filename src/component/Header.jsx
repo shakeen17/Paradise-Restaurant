@@ -1,6 +1,7 @@
 
 import { Link } from 'react-router-dom'
-export const Header = () => {
+export const Header = ({count}) => {
+    
     return (
         <div>
             <nav className="navbar navbar-expand-lg bg-danger p-4">
@@ -18,6 +19,10 @@ export const Header = () => {
                                 <Link className='nav-link fs-5' to='/about'>About</Link>
                             </li>
 
+                            {/* <li className="nav-item">
+                                <Link className='nav-link fs-5' to='/cards'>Menu</Link>
+                            </li> */}
+
                             <li className="nav-item">
                                 <Link className='nav-link fs-5' to='/order'>Order</Link>
                             </li> 
@@ -25,9 +30,13 @@ export const Header = () => {
                             <li className="nav-item">
                                 <Link className='nav-link fs-5' to='/catering'>Catering</Link>
                             </li>
+
+                            <li className="nav-item">
+                                <Link className='nav-link fs-5' to='/displaydata'>Display</Link>
+                            </li>
                             
                         </ul>
-                        <Link className='nav-link fs-5 me-3' to='/cart'>Cart</Link>
+                        <Link className='nav-link fs-5 me-3' to='/cart'>Cart<span className='ms-1 rounded-pill bg-primary-subtle p-1 px-2 text-dark'>{count.length}</span></Link>
                     </div>
 
                 </div>

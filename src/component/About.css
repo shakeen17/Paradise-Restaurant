@@ -1,0 +1,26 @@
+.image-container {
+    overflow: hidden;
+  }
+  
+  .animated-image {
+    transform: translateX(-100%);
+    animation: slideInFromLeft 1s forwards;
+  }
+  
+  .animated-text {
+    transform: translateX(100%);
+    animation: slideInFromRight 1s forwards;
+  }
+  
+  @keyframes slideInFromLeft {
+    to {
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes slideInFromRight {
+    to {
+      transform: translateX(0);
+    }
+  }
+  
